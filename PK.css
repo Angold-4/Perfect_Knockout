@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#game{
+    width: 600px;
+    height: 500px;
+    margin: auto;
+    overflow: hidden;
+}
+#gameStart{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+#head{
+    width: 500px;
+    height: 150px;
+    background: url(title.gif);
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+#headtitle{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    bottom: 50px;
+    left: 225px;
+    animation: p 0.2s linear infinite alternate;
+    -o-animation: p 0.2s linear infinite alternate;
+    -moz-animation: p 0.2s linear infinite alternate;
+    -webkit-animation: p 0.2s linear infinite alternate;
+    cursor: pointer;
+}
+@keyframes p{
+    from{top: 300px;}
+    to{top:302px;}
+}
+@-o-keyframes p{
+    from{top: 300px;}
+    to{top: 302px}
+}
+@-moz-keyframes p{
+    from{top: 300px;}
+    to{top: 302px;}
+}
+@-webkit-keyframes p{
+    from{top: 300px;}
+    to{top: 302px;}
+}
+#gameEnter{
+    width: 600px;
+    height: 500px;
+    position: relative;
+    display: none;
+}
+#BlueFighter{
+    width: 100px;
+    height: 100px;
+    position:absolute;
+    bottom: 0;
+    left:100px;
+    cursor: pointer;
+    animation: b 0.2s linear infinite alternate;
+    -o-animation: b 0.2s linear infinite alternate;
+    -moz-animation: b 0.2s linear infinite alternate;
+    -webkit-animation: b 0.2s linear infinite alternate;
+}
+@keyframes b{
+    from{bottom: 0px;}
+    to{bottom: 1px;}
+}
+@-o-keyframes b{
+    from{bottom: 0px;}
+    to{bottom: 1px;}
+}
+@-moz-keyframes b{
+    from{bottom: 0px;}
+    to{bottom: 1px;}
+}
+@-webkit-keyframes b{
+    from{bottom: 0px;}
+    to{bottom: 1px;}
+}
+#RedFighter{
+    width: 100px;
+    height: 100px;
+    position:absolute;
+    bottom: 0;
+    left:400px;
+    cursor: pointer;
+    animation: r 0.2s linear infinite alternate;
+    -o-animation: r 0.2s linear infinite alternate;
+    -moz-animation: r 0.2s linear infinite alternate;
+    -webkit-animation: r 0.2s linear infinite alternate;
+}
+@keyframes r{
+    from{bottom: 0px;}
+    to{bottom: 1px;}
+}
+@-o-keyframes r{
+    from{bottom: 0px;}
+    to{bottom: 1px;}
+}
+@-moz-keyframes r{
+    from{bottom: 0px;}
+    to{bottom: 1px;}
+}
+@-webkit-keyframes r{
+    from{bottom: 0px;}
+    to{bottom: 1px;}
+}
+    
+.b{
+    width: 20px;
+    height: 15px;
+    position: absolute;
+}
