@@ -1,17 +1,27 @@
-<h1>Perfect Puzzle and Knockout Fighter<h1>
-<h6>Idea comes from Kamen Rider Ex-aid</h6>
-<img src="SS2.jpeg">
-##Perfect Knockout Js Original Game
-<img src="SS1.png">
-##You Can Run it Freely with Out any Configuration Just with your Browser:-)
-<h3>INSTRUCTIONS:</h3>
-<ul>
-<li>This an RPG Game and also a Action Game, a Two-player Game</li>
-<li>Your and Your Friend and Control Two different Fighter -- The Red one and the Blue one</li>
-<li>Player One Which means Control The Blue Fighter Use Arrow Keys to move</li>
-<li><img src = 'BlueFighter.gif'>The BlueFighter</li>
-<li>Player Two Which means Control The Red Fighter Use <A>and<D>to move</li>
-<li><img src = 'RedFighter.gif'>The RedFighter</li>
-<li><strong>Special Skill For Blue Fighter and Red Fighter</strong></li>
-</ul>
+## Perfect Knockout  
+**a javascript original game made by Wange at Apr 2020**
 
+![PN](title.gif)
+
+### [GameEnter](https://angold-4.github.io/Perfect_Knockout/PK.html)
+
+### Initial thought:
+![Exaid](SS2.jpeg)
+
+**I am pretty like Kamen Rider Para-DX in Kamen Rider Exaid<br>**
+
+**At that time. I also have a homework that need to make a Javascript game, and our group choose the RPG game<br>**
+**I spent a whole day to make this game. At the same time I was thinking: ```"what is a really good game?"```<br>**
+**That is my answer at that time -- ```Perfect Knockout```<br>**
+
+
+### Game Instructions:
+![P1](P1.png)
+
+
+### Game Design:
+![P2](P2.png)
+
+![P3](P3.png)
+
+![P4](P4.png)
