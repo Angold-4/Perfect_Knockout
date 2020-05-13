@@ -1,5 +1,5 @@
 ## Perfect Knockout  
-**a javascript original game made by Wange at Apr 2020**
+**a javascript original game made by wange at Apr 2020**
 
 ![PN](title.gif)
 
